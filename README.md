@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Sabarno Pramanick**, a passionate about Data Science and Quantum Computing, aiming to grow with the world. Welcome to my GitHub profile, where I showcase projects and ideas that align with my career goals and interests!
+I'm **Sabarno Pramanick**. Welcome to my GitHub profile, where I showcase projects and ideas that align with my career goals and interests!
 
 ---
 
