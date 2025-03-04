@@ -6,7 +6,7 @@ I'm **Sabarno Pramanick**. Welcome to my GitHub profile, where I showcase projec
 
 ### Career Highlights
 
-- 💡 Quantum Machine Learning Intern at **The Oxford College of Engineering**
+- 💡 Quantum Computing Intern at **The Oxford College of Engineering**
 - 📚 Data Analyst Intern at **StuValley Technology**
 
 ---
@@ -15,8 +15,8 @@ I'm **Sabarno Pramanick**. Welcome to my GitHub profile, where I showcase projec
 
 - **Programming Languages**: Python, R
 - **Frameworks and Libraries**: TensorFlow, PyTorch, Qiskit, Streamlit
-- **Tools and Platforms**: Jupyter Notebook, Dash, Git, Docker
-- **Specialized Areas**: Data Analysis, Machine Learning, Quantum Computing
+- **Tools and Platforms**: Jupyter Notebook, Dash, Git
+- **Specialized Areas**: Data Analysis, Machine Learning, Quantum Computing, GenAI
 
 ---
 
