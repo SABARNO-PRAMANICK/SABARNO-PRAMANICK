@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Sabarno Pramanick**. Welcome to my GitHub profile, where I showcase projects and ideas that align with my career goals and interests!
+I'm **Sabarno Pramanick**. Welcome to my GitHub profile where I showcase projects and ideas that align with my career goals and interests
 
 ---
 
@@ -13,8 +13,8 @@ I'm **Sabarno Pramanick**. Welcome to my GitHub profile, where I showcase projec
 
 ### Technical Skills
 
-- **Programming Languages**: Python, R
-- **Frameworks and Libraries**: TensorFlow, PyTorch, Qiskit, Streamlit
+- **Programming Languages**: Python
+- **Frameworks and Libraries**: PyTorch, Qiskit, Streamlit
 - **Tools and Platforms**: Jupyter Notebook, Dash, Git
 - **Specialized Areas**: Data Analysis, Machine Learning, Quantum Computing, GenAI
 
